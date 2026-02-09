@@ -136,11 +136,13 @@ Microsserviços
 APIs robustas
 
 📦 Estrutura do projeto
-src/
+<div style="display: flex; flex-direction: column;">
+  src/
  ├─ entities/
  ├─ providers/
  ├─ repositories/
  └─ useCases/
+</div>
 
 📖 Recomendações de estudo
 
