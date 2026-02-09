@@ -137,11 +137,11 @@ APIs robustas
 
 📦 Estrutura do projeto
 
-src/
- ├─ entities/
- ├─ providers/
- ├─ repositories/
- └─ useCases/
+  src/
+ ├─ entities/       
+ ├─ providers/      
+ ├─ repositories/  
+ └─ useCases/       
  
 📖 Recomendações de estudo
 
